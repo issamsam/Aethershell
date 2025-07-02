@@ -33,8 +33,8 @@ It bridges the gap between natural language and real-time shell execution in a f
 ```bash
 git clone https://github.com/yourusername/aethershell.git
 cd aethershell
-bash setup.sh```
-
+bash setup.sh
+```
 
 
 ---
