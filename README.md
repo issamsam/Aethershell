@@ -54,7 +54,8 @@ bash setup.sh
 ---
 ## Execution
 
-```source venv/bin/activate
+```
+source venv/bin/activate
 python assistant.py
 ```
 
