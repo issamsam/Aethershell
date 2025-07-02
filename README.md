@@ -31,7 +31,7 @@ It bridges the gap between natural language and real-time shell execution in a f
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/aethershell.git
+git clone https://github.com/hiteshdhawan/Aethershell.git
 cd aethershell
 bash setup.sh
 ```
