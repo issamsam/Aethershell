@@ -27,7 +27,21 @@ It bridges the gap between natural language and real-time shell execution in a f
 - `curl`
 - Linux OS (Debian-based recommended)
 - At least 6 GB RAM for LLM execution
+  
+## Prerequisites
 
+Before running `setup.sh`, ensure the following tools are installed on your system:
+
+- `curl` – for downloading the model
+- `python3` and `venv` – for setting up the environment
+
+You can install them on Debian/Ubuntu systems using:
+
+```bash
+sudo apt update
+sudo apt install curl python3 python3-venv
+```
+---
 ### Installation
 
 ```bash
@@ -40,9 +54,9 @@ bash setup.sh
 ---
 ## Execution
 
-source venv/bin/activate
+```source venv/bin/activate
 python assistant.py
-
+```
 
 
 ## Folder Structure
