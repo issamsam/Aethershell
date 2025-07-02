@@ -30,10 +30,10 @@ It bridges the gap between natural language and real-time shell execution in a f
 
 ### Installation
 
-```bash```
+```bash
 git clone https://github.com/yourusername/aethershell.git
 cd aethershell
-bash setup.sh
+bash setup.sh```
 
 
 
@@ -46,7 +46,7 @@ python assistant.py
 
 
 ## Folder Structure
-aethershell/
+```aethershell/
 ├── assistant.py
 ├── action_planner.py
 ├── step_executor.py
@@ -59,6 +59,7 @@ aethershell/
 ├── models/                # Stores downloaded GGUF model
 ├── aether_memory.json     # Stores task memory/logs
 └── venv/                  # Virtual environment (ignored)
+```
 
 ## Model
 This project uses the following model via llama-cpp-python:
