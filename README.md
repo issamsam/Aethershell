@@ -35,17 +35,16 @@ git clone https://github.com/yourusername/aethershell.git
 cd aethershell
 bash setup.sh
 
+---
 
 
-
-
-### Execution
+## Execution
 
 source venv/bin/activate
 python assistant.py
 
 
-
+---
 
 ### Folder Structure
 aethershell/
@@ -61,11 +60,11 @@ aethershell/
 ├── models/                # Stores downloaded GGUF model
 ├── aether_memory.json     # Stores task memory/logs
 └── venv/                  # Virtual environment (ignored)
-
+---
 ### Model
 This project uses the following model via llama-cpp-python:
 mistral-7b-instruct-v0.1.Q4_K_M.gguf (Auto downloaded using setup.sh)
 
-
+---
 
 
