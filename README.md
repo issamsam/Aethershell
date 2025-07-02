@@ -46,7 +46,7 @@ sudo apt install curl python3 python3-venv
 
 ```bash
 git clone https://github.com/hiteshdhawan/Aethershell.git
-cd aethershell
+cd Aethershell
 bash setup.sh
 ```
 
