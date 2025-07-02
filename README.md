@@ -30,14 +30,14 @@ It bridges the gap between natural language and real-time shell execution in a f
 
 ### Installation
 
-```bash
+```bash```
 git clone https://github.com/yourusername/aethershell.git
 cd aethershell
 bash setup.sh
 
 
 
-
+---
 ## Execution
 
 source venv/bin/activate
