@@ -15,7 +15,7 @@ It bridges the gap between natural language and real-time shell execution in a f
 - Memory persistence (JSON-based context)
 - Offline capability (Works completely offline using local model.)
 - Optional cloud fallback support (WIP)
-- Secure Sandbox 
+- Secure Sandbox (WIP)
 
 ---
 
